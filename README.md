@@ -22,11 +22,11 @@ Data is hosted on AWS with the links below leading to each individual data type.
 
 For example, to download all PacBio CLR data for HG01109, located at ``https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01109/PacBio_CLR/`` we can remove ``index.html?prefix=`` from the url and replace ``https://s3-us-west-2.amazonaws.com/`` with ``s3://``, giving a URL of ``s3://human-pangenomics/HG01109/PacBio_CLR/``. We can then download all files in this subfolder with the command:
 ```
-   aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/PacBio_CLR/ ./
+aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/PacBio_CLR/ ./
 ```
 To instead download all data for this sample run:
 ```
-   aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/ ./
+aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/ ./
 ```
 
 There are many other s3 commands, such as ls and cp to list folder contents or to download individual files. Check the AWS documentation for more information. Amending the `max_concurrent_requests` etc. settings as per <a href="https://docs.aws.amazon.com/cli/latest/topic/s3-config.html">this guide</a> will improve download performance further.
