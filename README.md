@@ -36,7 +36,7 @@ Below are the links to download each datatype:
 * HG01109 (Male, PUR)
    - Father HG01107 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01107/illumina/">data</a>
    - Mother HG01108 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01108/illumina/">data</a>
-   - Illumina <a href="ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/002/ERR3988842/ERR3988842_1.fastq.gz">left</a> and <a href="ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/002/ERR3988842/ERR3988842_2.fastq.gz">right</a> pairs
+   - Illumina <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/002/ERR3988842/ERR3988842_1.fastq.gz">left</a> and <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/002/ERR3988842/ERR3988842_2.fastq.gz">right</a> pairs
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01109/10X/">data</a>
    - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01109/PacBio_CLR/">data</a>
    - PacBio HiFi <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/8fa7bde9-be6f-4160-97a9-b639a8962c66--WUSTL_OTHER_HiFi/HG01109/PacBio_HiFi/">data</a>
