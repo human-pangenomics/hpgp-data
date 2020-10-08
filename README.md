@@ -8,7 +8,7 @@ Data will be added and updated as technologies improve or new data uses are enco
 
 Each parent in the trio was sequenced with <a href="https://www.illumina.com">Illumina</a> short reads, each child was sequenced with <a href="https://www.10xgenomics.com">10X Genomics</a>, <a href="https://nanoporetech.com">Nanopore</a>, <a href="http://www.pacb.com">PacBio</a> CLR, <a href="https://bionanogenomics.com">Bionano</a>, Hi-C, and PacBio HiFi (in process). 
 
-For nanopore datasets, each folder contains the fast5, fastq (basecalled with Guppy 3.6.0), and a sequencing summary file.
+For nanopore datasets, each folder contains the fast5, fastq (basecalled with Guppy 2.3.5 flip flop with the high accuracy model), and a sequencing summary file.
 
 For PacBio CLR data, each folder contains a subread bam file which can be converted to fasta/q using either bam2fastq or samtools fasta.
 
@@ -51,7 +51,7 @@ Below are the links to download each datatype:
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01243/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01243/hic/">data</a>
 
-* HG02080 (Feale, KHV)
+* HG02080 (Female, KHV)
    - Parent HG02082 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02082/illumina/">data</a>
    - Parent HG02081 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02081/illumina/">data</a>
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02080/10X/">data</a>
