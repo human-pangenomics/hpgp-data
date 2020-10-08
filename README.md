@@ -24,7 +24,7 @@ For example, to download all PacBio CLR data for HG01109, located at ``https://s
 ```
 aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/PacBio_CLR/ ./
 ```
-To instead download all data for this sample run:
+To instead download all data for this sample run (NOTE: HiFi and Illumina data will not be downloaded with this command and must be downloaded separately):
 ```
 aws --no-sign-request s3 sync s3://human-pangenomics/HG01109/ ./
 ```
