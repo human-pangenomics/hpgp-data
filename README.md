@@ -126,13 +126,13 @@ Below are the links to download each datatype:
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01442/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG01442/hic/">data</a>
 
-* HG02445 (Male, ACB)
-   - Father HG02143 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02443/illumina/">data</a>
-   - Mother HG02144 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02444/illumina/">data</a>
-   - Illumina <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/005/ERR3988995/ERR3988995_1.fastq.gz">left</a> and <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/005/ERR3988995/ERR3988995_1.fastq.gz">right</a> pairs
-   - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02445/10X/">data</a>
-   - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02445/PacBio_CLR/">data</a>
-   - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02445/nanopore/">data</a>
-   - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02445/BioNano/">data</a>
-   - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02445/hic/">data</a>
+* HG02145 (Male, ACB)
+   - Father HG02143 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02143/illumina/">data</a>
+   - Mother HG02144 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02144/illumina/">data</a>
+   - Illumina <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/005/ERR3988995/ERR3988995_1.fastq.gz">left</a> and <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/005/ERR3988995/ERR3988995_2.fastq.gz">right</a> pairs
+   - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02145/10X/">data</a>
+   - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02145/PacBio_CLR/">data</a>
+   - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02145/nanopore/">data</a>
+   - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02145/BioNano/">data</a>
+   - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02145/hic/">data</a>
 
