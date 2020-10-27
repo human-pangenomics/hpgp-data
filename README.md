@@ -1,4 +1,4 @@
-# Human PanGenomics Project
+# T2T Diversity Panel
 
 This dataset includes sequencing data, assemblies, and analyses for the offspring of ten parent-offspring trios. 
 
