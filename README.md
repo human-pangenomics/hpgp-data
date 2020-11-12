@@ -82,6 +82,7 @@ Below are the links to download each datatype:
    - Illumina <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/009/ERR3988979/ERR3988979_1.fastq.gz">left</a> and <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/009/ERR3988979/ERR3988979_2.fastq.gz">right</a> pairs
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02055/10X/">data</a>
    - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02055/PacBio_CLR/">data</a>
+   - PacBio HiFi <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/8fa7bde9-be6f-4160-97a9-b639a8962c66--WUSTL_OTHER_HiFi/HG02055/">data</a>   
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02055/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02055/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=HG02055/hic/">data</a>
