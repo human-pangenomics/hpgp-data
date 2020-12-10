@@ -72,6 +72,7 @@ Below are the links to download each datatype:
    - Illumina <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/009/ERR3989119/ERR3989119_1.fastq.gz">left</a> and <a href="http://ftp.sra.ebi.ac.uk/vol1/fastq/ERR398/009/ERR3989119/ERR3989119_2.fastq.gz">right</a> pairs
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03098/10X/">data</a>
    - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03098/PacBio_CLR/">data</a>
+   - PacBio HiFi <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/8fa7bde9-be6f-4160-97a9-b639a8962c66--WUSTL_OTHER_HiFi/HG03098/PacBio_HiFi/">data</a>
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03098/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03098/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03098/hic/">data</a>
@@ -124,6 +125,7 @@ Below are the links to download each datatype:
    - Mother HG01441 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01441/illumina/">data</a>
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/10X/">data</a>
    - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/PacBio_CLR/">data</a>
+   - PacBio HiFi <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/8fa7bde9-be6f-4160-97a9-b639a8962c66--WUSTL_OTHER_HiFi/HG01442/PacBio_HiFi/">data</a>
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/hic/">data</a>
