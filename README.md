@@ -43,6 +43,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01109/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01109/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01109/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG01109/">assembly</a>
 
 * HG01243 (Male, PUR)
    - Father HG01241 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01241/illumina/">data</a>
@@ -54,6 +55,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01243/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01243/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01243/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG01243/">assembly</a>
 
 * HG02080 (Female, KHV)
    - Father HG02082 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02082/illumina/">data</a>
@@ -65,6 +67,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02080/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02080/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02080/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG02080/">assembly</a>
 
 * HG03098 (Male, MSL)
    - Father HG03096 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03096/illumina/">data</a>
@@ -98,6 +101,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03492/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03492/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG03492/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG03492/">assembly</a>
 
 * HG02723 (Female, GWD)
    - Father HG02721 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02721/illumina/">data</a>
@@ -109,6 +113,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02723/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02723/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02723/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG02723/">assembly</a>
 
 * HG02109 (Female, ACB)
    - Father HG02107 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02107/illumina/">data</a>
@@ -119,6 +124,7 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02109/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02109/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02109/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG02109/">assembly</a>
 
 * HG01442 (Male, CLM)
    - Father HG01440 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01440/illumina/">data</a>
@@ -140,3 +146,4 @@ Below are the links to download each datatype:
    - Nanopore <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02145/nanopore/">data</a>
    - Bionano <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02145/BioNano/">data</a>
    - Hi-C <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG02145/hic/">data</a>
+   - <a ref="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/0AEF2B37-2F09-452B-AE5C-51C638A1FBD2--ASSEMBLY_QC/HG02145/">assembly</a>
