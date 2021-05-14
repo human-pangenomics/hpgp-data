@@ -129,7 +129,7 @@ Below are the links to download each datatype:
    - <a href="https://github.com/chhylp123/hifiasm">Hifiasm</a> trio <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=working/HPRC_PLUS/HG02109/assemblies/year1_freeze_assembly_v2/">assembly</a>
 
 * HG01442 (Male, CLM)
-   - Father HG01440 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01440/illumina/">data</a>
+   - Uncle HG01440 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01440/illumina/">data</a>
    - Mother HG01441 Illumina <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01441/illumina/">data</a>
    - 10XG <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/10X/">data</a>
    - PacBio CLR <a href="https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=NHGRI_UCSC_panel/HG01442/PacBio_CLR/">data</a>
