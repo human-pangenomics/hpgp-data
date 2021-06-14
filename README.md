@@ -6,7 +6,7 @@ Data will be added and updated as technologies improve or new data uses are enco
 
 # Data description
 
-Each parent in the trio was sequenced with <a href="https://www.illumina.com">Illumina</a> short reads, each child was sequenced with <a href="https://www.illumina.com">Illumina</a> short reads, <a href="https://www.10xgenomics.com">10X Genomics</a>, <a href="https://nanoporetech.com">Nanopore</a>, <a href="http://www.pacb.com">PacBio</a> CLR and HiFi (in process), <a href="https://bionanogenomics.com">Bionano</a> and Hi-C.
+Each parent in the trio was sequenced with <a href="https://www.illumina.com">Illumina</a> short reads, each child was sequenced with <a href="https://www.illumina.com">Illumina</a> short reads, <a href="https://www.10xgenomics.com">10X Genomics</a>, <a href="https://nanoporetech.com">Nanopore</a>, <a href="http://www.pacb.com">PacBio</a> CLR and HiFi, <a href="https://bionanogenomics.com">Bionano</a> and Hi-C.
 
 For nanopore datasets, each folder contains the fast5, fastq (basecalled with Guppy 2.3.5 flip flop with the high accuracy model), and a sequencing summary file.
 
